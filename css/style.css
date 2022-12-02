@@ -1,0 +1,142 @@
+
+/* Your styles here */
+
+header{
+    
+    background-color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    }
+body{
+    
+        font-family: 'Open Sans', sans-serif;
+        color: #393d41;
+        font-size: 1.2rem;
+        line-height: 1.65;
+        text-align: center;
+    }
+main section{
+    padding-left:50px;
+    padding-right:50px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+
+}
+    
+.logoimage{
+    width: 100%;
+    margin:auto;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:#25a2c3;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+h1{
+    font-size: 2rem;
+}
+h4{
+    margin-block-end: 15px;
+    margin-block-start: 30px;
+}
+h3{
+    font-size: 2rem;
+    
+}
+p{
+    margin-block-end: 10px;
+    margin-block-start: 10px;
+}
+.firstsection{
+   
+    padding-top: 10%;
+    padding-bottom: 5%;
+    background-color: white;
+    background-image: url(../images/banner.jpg);
+    background-size: contain;    
+}
+button{
+    background-color: #f04c2f;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: white;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 10%;
+}
+.notebookimage{
+    border-radius: 50%;
+    width: 70%;
+}
+.thirdsection{
+    background-color: #e22d0e;
+    color: white;
+   
+
+}
+.thirdsection h3{
+    color: white;
+}
+
+.thirdsection p{
+    font-size: 14px;
+}
+.nameandsurname{
+    font-style: italic;
+}
+
+
+
+.fotografia{
+    margin-top: 30px;
+    width: 100%;
+    border-color: #dee1e3;
+    border-radius: 2%;
+    border-style: solid;
+    border-width: 2px;
+    
+    padding-bottom: 30px;
+}
+
+img{width: 100%;
+
+   }
+.fotografiatesto
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+footer{
+    background-color:#25a2c3;
+    color: #c8e7f0
+    
+}
+footer h1{
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+a{
+    font-family: 'Open Sans', sans-serif;
+    color: #c8e7f0;
+
+  }
+hr{
+   height: 1px;
+   width: 200px;
+   border-top: 1px;
+   border-color: white;
+   border-left: 0;
+   border-right: 0;
+}
+
